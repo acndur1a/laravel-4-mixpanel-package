@@ -6,11 +6,11 @@ Package for Laravel 4.1 to use with Mixpanel
 <h2> Introduction</h2>
 
 <p> This is a package created for use with Mixpanel API, it uses the <a href="https://github.com/mixpanel/mixpanel-php">Mixpanel PHP Library </a> as a dependency  </p> 
-<p> The package is located in /workbench folder in the root directory </p>
+
 
 <h2> Package </h2>
 
-<p> The package is located in /workbench/ folder in the root directory </p>
+<p> The package is located in /workbench/mixlib folder in the root directory </p>
 <p> To access the service provider, facades and package file, go to workbench/ixlib/laravelmixpanel/src/Mixlib/Laravelmixpanel
 </p>
 
