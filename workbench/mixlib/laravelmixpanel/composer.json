@@ -1,0 +1,20 @@
+{
+    "name": "mixlib/laravelmixpanel",
+    "description": "",
+    "authors": [
+        {
+            "name": "Andrew Condurache",
+            "email": "andrew@ginklabs.co"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.*"
+ , "mixpanel/mixpanel-php" : "2.*"   },
+    "autoload": {
+        "psr-0": {
+            "Mixlib\\Laravelmixpanel": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
