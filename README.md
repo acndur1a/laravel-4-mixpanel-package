@@ -11,7 +11,7 @@ Package for Laravel 4.1 to use with Mixpanel
 <h2> Package </h2>
 
 <p> The package is located in /workbench/mixlib folder in the root directory </p>
-<p> To access the service provider, facades and package file, go to workbench/ixlib/laravelmixpanel/src/Mixlib/Laravelmixpanel
+<p> To access the service provider, facades and package file, go to workbench/mixlib/laravelmixpanel/src/Mixlib/Laravelmixpanel
 </p>
 
 
